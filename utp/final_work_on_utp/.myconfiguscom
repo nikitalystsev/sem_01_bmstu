@@ -1,0 +1,1 @@
+grep error* program.c>last.log
